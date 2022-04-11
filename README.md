@@ -7,7 +7,9 @@ Codigo simples que executa o suicideBurn no KSP com o MOD KRPC
 - mod kRPC 
 - Testado no Python 3.8 
 
-~SirMazur
+Video de demostração 
+https://youtu.be/YH10x_n2SRg
+
 
 Melhorias a se fazer no codigo:
 
